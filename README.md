@@ -6,4 +6,6 @@ descripcion
 
 instalacion
 
+uso
+
 autor: Arturo Galvan M.
